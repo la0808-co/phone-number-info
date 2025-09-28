@@ -61,7 +61,7 @@ This parses the string phone number into a format that the library can understan
 
 +91 is the country code for India.
 
-The number 9818387668 is a typical Indian mobile number.
+The number  -------------is a typical Indian mobile number.
 
 parse() turns this into a structured object with country code, national number, etc.
 print(geocoder.description_for_number(phone_number1, "en"))
